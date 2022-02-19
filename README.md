@@ -15,3 +15,7 @@ Week 1 : Developed the basic layout of the extension by writing HTML and creatin
 week 2 : Styled the extension using CSS and gave some functioning using Javascript.
 
 week 3 : Gave the final touch and pushed it into gitHub did some minor changes to showcase the final project
+
+Conclusion : The chrome extension is fully functional and ready to use on the daily basis.
+
+Future Scope : Intend to add the voice assistant and a search bar in the future to increase the functionality and make the project more effective.
