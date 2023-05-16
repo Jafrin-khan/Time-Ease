@@ -1,6 +1,5 @@
 let bt = document.getElementById("getTimezone");
 
-
 if(bt !== null){
 bt.addEventListener("click",Timezone);
 }
