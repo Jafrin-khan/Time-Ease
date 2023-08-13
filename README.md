@@ -28,6 +28,7 @@ Additionally, innovatively integrated real-time entertainment with dynamic jokes
 
 ![Screenshot (690)](https://github.com/Jafrin-khan/Time-Ease/assets/82137973/c2f82cb1-dbae-4810-b7c6-7df20e6b3204)
 
+<br><br>
 
-
+![Screenshot (693)](https://github.com/Jafrin-khan/Time-Ease/assets/82137973/1609955f-e979-4832-83d5-1b79f130ee64)
 
